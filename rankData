@@ -1,0 +1,320 @@
+class aeroplane
+
+aeroplane
+
+false negative
+ rank =  2119 4.1748817296e-05 file name= 2011_002248
+ rank =  2484 7.56895919864e-05 file name= 2008_001160
+ rank =  2550 8.36402033974e-05 file name= 2009_001321
+true positive
+rank =  5822 1.0 file name= 2009_000817
+rank =  5821 1.0 file name= 2009_002211
+rank =  5820 1.0 file name= 2009_005111
+false positive
+rank =  5699 0.999990432458 file name= 2010_003418
+rank =  5659 0.981189568582 file name= 2008_006824
+rank =  5651 0.974530555179 file name= 2008_008435
+class bicycle
+
+bicycle
+
+false negative
+ rank =  289 5.48343899952e-05 file name= 2010_005860
+ rank =  1336 0.000799378128107 file name= 2008_001226
+ rank =  1855 0.00157965405508 file name= 2010_001206
+true positive
+rank =  5822 1.0 file name= 2009_001456
+rank =  5821 1.0 file name= 2010_000898
+rank =  5820 1.0 file name= 2010_000829
+false positive
+rank =  5760 0.971957997278 file name= 2010_005366
+rank =  5757 0.966177449515 file name= 2010_003303
+rank =  5734 0.788365822106 file name= 2009_001973
+class bird
+
+bird
+
+false negative
+ rank =  664 3.18281788793e-06 file name= 2008_007661
+ rank =  1371 2.03973168828e-05 file name= 2008_008537
+ rank =  2053 6.77727775587e-05 file name= 2009_004524
+true positive
+rank =  5822 1.0 file name= 2010_004483
+rank =  5821 1.0 file name= 2009_000370
+rank =  5820 1.0 file name= 2009_000991
+false positive
+rank =  5705 0.873369864904 file name= 2009_004403
+rank =  5667 0.646248665715 file name= 2010_000876
+rank =  5663 0.611358920388 file name= 2010_005421
+class boat
+
+boat
+
+false negative
+ rank =  634 1.48511226803e-05 file name= 2009_004224
+ rank =  2239 0.00025876030148 file name= 2011_000086
+ rank =  2690 0.000435928746754 file name= 2011_002578
+true positive
+rank =  5822 1.0 file name= 2008_003858
+rank =  5821 1.0 file name= 2008_005695
+rank =  5820 1.0 file name= 2010_002565
+false positive
+rank =  5736 0.938374269242 file name= 2009_001090
+rank =  5734 0.927109720459 file name= 2010_002538
+rank =  5729 0.914030722294 file name= 2008_001985
+class bottle
+
+bottle
+
+false negative
+ rank =  125 0.000324168729056 file name= 2009_000573
+ rank =  1000 0.00259030399434 file name= 2011_003254
+ rank =  1093 0.00285406748298 file name= 2010_005853
+true positive
+rank =  5822 1.0 file name= 2008_006815
+rank =  5821 0.999999999998 file name= 2008_002467
+rank =  5820 0.999999998889 file name= 2009_001907
+false positive
+rank =  5796 0.851158955956 file name= 2009_000846
+rank =  5774 0.449860381875 file name= 2008_007823
+rank =  5771 0.379740555789 file name= 2008_008331
+class bus
+
+bus
+
+false negative
+ rank =  306 0.000490387605329 file name= 2010_005160
+ rank =  1701 0.0053856621072 file name= 2008_003673
+ rank =  2304 0.00883510082075 file name= 2010_002200
+true positive
+rank =  5822 1.0 file name= 2009_004567
+rank =  5821 1.0 file name= 2010_003562
+rank =  5820 1.0 file name= 2011_000559
+false positive
+rank =  5742 0.999994093572 file name= 2009_002568
+rank =  5723 0.995751623598 file name= 2009_005148
+rank =  5712 0.988209888087 file name= 2009_002990
+class car
+
+car
+
+false negative
+ rank =  348 0.111884964096 file name= 2008_008050
+ rank =  780 0.195986767669 file name= 2010_006070
+ rank =  1010 0.230134653995 file name= 2008_006071
+true positive
+rank =  5822 1.0 file name= 2009_003814
+rank =  5821 1.0 file name= 2008_003022
+rank =  5820 1.0 file name= 2008_005686
+false positive
+rank =  5733 0.999999816037 file name= 2010_001646
+rank =  5713 0.999997818938 file name= 2008_007797
+rank =  5709 0.999996951298 file name= 2010_005063
+class cat
+
+cat
+
+false negative
+ rank =  538 1.21006488094e-05 file name= 2008_002682
+ rank =  878 5.20399734282e-05 file name= 2010_004743
+ rank =  934 6.37846377892e-05 file name= 2008_003228
+true positive
+rank =  5822 1.0 file name= 2010_003223
+rank =  5821 1.0 file name= 2010_005185
+rank =  5820 1.0 file name= 2010_005647
+false positive
+rank =  5750 0.999999791515 file name= 2010_005548
+rank =  5692 0.991574779357 file name= 2010_002332
+rank =  5617 0.92799859726 file name= 2010_005152
+class chair
+
+chair
+
+false negative
+ rank =  220 0.000369744267598 file name= 2010_000127
+ rank =  318 0.000601352385771 file name= 2010_002086
+ rank =  782 0.00216987770454 file name= 2011_001524
+true positive
+rank =  5822 0.999999998324 file name= 2011_002241
+rank =  5821 0.999999875519 file name= 2009_004140
+rank =  5820 0.999999821716 file name= 2010_004278
+false positive
+rank =  5804 0.99454592035 file name= 2010_001181
+rank =  5802 0.993339562246 file name= 2008_008772
+rank =  5798 0.989290408169 file name= 2008_006948
+class cow
+
+cow
+
+false negative
+ rank =  2299 0.000663720802449 file name= 2009_002772
+ rank =  3543 0.00263870601896 file name= 2011_003019
+ rank =  3819 0.00364388807767 file name= 2009_005229
+true positive
+rank =  5822 0.994997179219 file name= 2010_000427
+rank =  5821 0.991671641017 file name= 2008_003256
+rank =  5820 0.988394716418 file name= 2009_003901
+false positive
+rank =  5809 0.818504107679 file name= 2010_003541
+rank =  5808 0.79661619033 file name= 2009_003666
+rank =  5807 0.793208300291 file name= 2010_002124
+class diningtable
+
+diningtable
+
+false negative
+ rank =  1482 0.000589096449447 file name= 2010_005938
+ rank =  1519 0.000618633361559 file name= 2009_001057
+ rank =  2076 0.00126283841103 file name= 2011_000622
+true positive
+rank =  5822 0.999999999536 file name= 2009_004140
+rank =  5821 0.999999999449 file name= 2008_002330
+rank =  5820 0.999999429234 file name= 2011_002200
+false positive
+rank =  5807 0.99252348608 file name= 2008_000465
+rank =  5806 0.990862904518 file name= 2008_008772
+rank =  5805 0.988756542829 file name= 2009_000198
+class dog
+
+dog
+
+false negative
+ rank =  377 0.000162455225212 file name= 2008_002610
+ rank =  1159 0.000777542169267 file name= 2010_001635
+ rank =  1280 0.000931274175845 file name= 2008_002395
+true positive
+rank =  5822 1.0 file name= 2009_000839
+rank =  5821 1.0 file name= 2008_006968
+rank =  5820 1.0 file name= 2010_003852
+false positive
+rank =  5770 0.999995033787 file name= 2008_002682
+rank =  5698 0.969639916376 file name= 2008_007806
+rank =  5690 0.965345834359 file name= 2008_005816
+class horse
+
+horse
+
+false negative
+ rank =  931 0.000208684459296 file name= 2010_002482
+ rank =  1421 0.000495634794887 file name= 2011_002951
+ rank =  2294 0.00139077268902 file name= 2009_003481
+true positive
+rank =  5822 1.0 file name= 2008_008011
+rank =  5821 0.999999999856 file name= 2009_003565
+rank =  5819 0.999999999712 file name= 2011_001722
+false positive
+rank =  5820 0.999999999836 file name= 2008_005105
+rank =  5812 0.999999966131 file name= 2011_001232
+rank =  5810 0.999999820952 file name= 2008_006528
+class motorbike
+
+motorbike
+
+false negative
+ rank =  928 0.00418410098268 file name= 2008_002179
+ rank =  1076 0.00521746902036 file name= 2010_005620
+ rank =  1523 0.00907262497507 file name= 2008_002401
+true positive
+rank =  5822 1.0 file name= 2010_003745
+rank =  5821 1.0 file name= 2010_003695
+rank =  5820 1.0 file name= 2009_000858
+false positive
+rank =  5762 0.999993474618 file name= 2008_001590
+rank =  5750 0.997137706054 file name= 2008_006088
+rank =  5748 0.996849568295 file name= 2008_008629
+class person
+
+person
+
+false negative
+ rank =  2 7.21143650368e-07 file name= 2008_006924
+ rank =  33 0.000182265340902 file name= 2009_002711
+ rank =  101 0.0012877570593 file name= 2009_004051
+true positive
+rank =  5822 1.0 file name= 2010_005327
+rank =  5821 1.0 file name= 2008_001680
+rank =  5820 1.0 file name= 2010_002096
+false positive
+rank =  5212 0.992421805691 file name= 2011_001720
+rank =  5163 0.99040960885 file name= 2009_005086
+rank =  5137 0.98903560108 file name= 2011_001665
+class pottedplant
+
+pottedplant
+
+false negative
+ rank =  150 0.000910603862203 file name= 2008_006203
+ rank =  765 0.00767503499742 file name= 2010_005305
+ rank =  804 0.00815382052505 file name= 2008_006441
+true positive
+rank =  5822 1.0 file name= 2010_000330
+rank =  5821 0.999999998801 file name= 2008_000391
+rank =  5820 0.999999995428 file name= 2010_000639
+false positive
+rank =  5799 0.950295464909 file name= 2011_002325
+rank =  5797 0.947996831563 file name= 2011_002185
+rank =  5789 0.896171478091 file name= 2008_001723
+class sheep
+
+sheep
+
+false negative
+ rank =  3178 0.00119284800485 file name= 2010_000139
+ rank =  3339 0.00141758344779 file name= 2010_005160
+ rank =  4057 0.0030846376396 file name= 2008_006939
+true positive
+rank =  5822 1.0 file name= 2010_001557
+rank =  5821 1.0 file name= 2010_001079
+rank =  5820 0.999999999988 file name= 2010_005566
+false positive
+rank =  5804 0.999998009953 file name= 2009_002608
+rank =  5773 0.946011798513 file name= 2010_001548
+rank =  5770 0.939061411118 file name= 2008_006425
+class sofa
+
+sofa
+
+false negative
+ rank =  554 0.000916815761578 file name= 2009_003895
+ rank =  587 0.00100463241679 file name= 2008_001816
+ rank =  624 0.0011304179723 file name= 2010_001333
+true positive
+rank =  5822 0.999999723421 file name= 2011_000070
+rank =  5821 0.99588336247 file name= 2009_004419
+rank =  5820 0.993992796525 file name= 2008_000857
+false positive
+rank =  5817 0.983819761385 file name= 2010_002958
+rank =  5815 0.979600598954 file name= 2008_000107
+rank =  5813 0.976722285465 file name= 2008_001619
+class train
+
+train
+
+false negative
+ rank =  2174 0.000153720222515 file name= 2010_001502
+ rank =  2630 0.000290821290571 file name= 2009_005148
+ rank =  2755 0.000344451331139 file name= 2009_003892
+true positive
+rank =  5822 1.0 file name= 2010_002840
+rank =  5821 1.0 file name= 2009_002982
+rank =  5820 1.0 file name= 2008_004367
+false positive
+rank =  5689 0.965660190815 file name= 2008_002356
+rank =  5679 0.925760834272 file name= 2008_000982
+rank =  5671 0.900654420806 file name= 2011_001669
+class tvmonitor
+
+tvmonitor
+
+false negative
+ rank =  2073 0.000815892191385 file name= 2010_002561
+ rank =  2315 0.00104274367371 file name= 2010_005243
+ rank =  2791 0.0015448097858 file name= 2009_004062
+true positive
+rank =  5822 1.0 file name= 2009_003895
+rank =  5821 1.0 file name= 2009_002366
+rank =  5820 1.0 file name= 2010_001918
+false positive
+rank =  5740 0.946761130518 file name= 2008_008096
+rank =  5737 0.943591772557 file name= 2011_002531
+rank =  5735 0.936155820634 file name= 2011_000124
